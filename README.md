@@ -20,4 +20,4 @@ Da die Akkus keine Kommunikationsschnittstelle haben, geht das mit den Orig. Akk
 Dort liegen normalerweise einfach die 36v (bzw. irgendwas zw. 33v und 42v je nach Ladezustand) an den Polepins an. <br>
 Der Originale ESC soll aus dem Motorgehäuse ausgebaut werden, die Kabel von den Wicklungen sowie anschlüsse der Hall-Sensoren neu verkabelt und durch die Nabe rausgezogen werden. Der Controller sollte so klein gebaut sein, dass er im Rahmen unterbringbar ist. So wird auch dem Überhitzungsproblem der Elektronik im Motorengehäuse entgegnet. <br>
 <br>
-
+Diskussionsforum: https://stromerforum.ch/showthread.php?tid=2967
