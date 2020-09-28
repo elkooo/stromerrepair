@@ -25,11 +25,19 @@ Als IC soll ein Arduino (oder Atmel-Chip) zum Einsatz kommen. Dieser soll:
 
 ## Mögliche Hardware:
 
-### Controller:
+### Motor-Controller:
 - https://vesc-project.com
   - (Programmierbare VESC Controller! Sehr cool!)
 - https://makerx-tech.com/collections/x-esc/products/x-vesc4
 - https://www.aliexpress.com/item/4000438827676.html
+
+## Dev-Board / IC:
+
+Fraglich ob mit kleinem gestartet und Code nachher auf grösseres Board umgezogen werden kann, wenn mehr Recourcen nötig wären?!
+- Rhino Mini 328PB (Atmel 328PB, 2xUART, ca. 5$)
+- Pololu A-Star 328PB Micro (Atmel 328PB, 2xUART, ca. 5$)
+- ATxmega (z.B. MT-DB-X5, 2xUART, ca 22$)
+- Teensy 3.2 (72mhz cortex, 3xUART, ca. 20$)
 
 ## Diskussionsforum:
 
