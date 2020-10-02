@@ -38,6 +38,8 @@ Fraglich ob mit kleinem gestartet und Code nachher auf grösseres Board umgezoge
 - Pololu A-Star 328PB Micro (Atmel 328PB, 2xUART, ca. 5$)
 - ATxmega (z.B. MT-DB-X5, 2xUART, ca 22$)
 - Teensy 3.2 (72mhz cortex, 3xUART, ca. 20$)
+- ESP8266 (https://de.wikipedia.org/wiki/ESP8266, WLAN, 3$)
+- ESP32 (https://de.wikipedia.org/wiki/ESP32, WLAN, BT, 5$)
 
 ## Diskussionsforum:
 
