@@ -30,7 +30,7 @@ Als IC soll ein Arduino (oder Atmel-Chip) zum Einsatz kommen. Dieser soll:
   - (Programmierbare VESC Controller! Sehr cool!)
 - https://makerx-tech.com/collections/x-esc/products/x-vesc4
 - https://www.aliexpress.com/item/4000438827676.html
-  - 50A controller (max 13s... bei 10s 1800w Dauerleistung 3600w peak)
+  - 50A controller (max 13s... bei 10s 1800w Dauerleistung 3600w peak; ca. 60$ shipped)
 
 ## Dev-Board / IC:
 
